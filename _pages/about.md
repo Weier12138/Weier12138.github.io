@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 ## About Me  
 I am a postgraduate student majoring in Computer Science and Technology at the School of Information Engineering, Chang'an University, mainly engaged in research in the field of **multimodal survival prediction**. My research focuses on fusing multi-source heterogeneous data to build efficient and reliable prediction models, improving the prediction accuracy of disease prognosis, and providing scientific data support for clinical diagnosis and treatment decisions.  
